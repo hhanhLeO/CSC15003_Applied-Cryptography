@@ -1,1 +1,1 @@
-# HCMUS-CSC15003_Applied-Cryptography
+# CSC15003_Applied-Cryptography
