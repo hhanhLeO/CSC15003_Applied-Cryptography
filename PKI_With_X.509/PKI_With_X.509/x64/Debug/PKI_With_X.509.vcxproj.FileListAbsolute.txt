@@ -1,0 +1,1 @@
+C:\Users\Admin\OneDrive - VNU-HCMUS\Applied Cryptography\PKI_With_X.509\PKI_With_X.509\x64\Debug\PKI_With_X.509.vcxproj.CopyComplete

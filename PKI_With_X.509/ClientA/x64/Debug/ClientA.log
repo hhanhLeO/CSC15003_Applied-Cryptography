@@ -1,0 +1,6 @@
+﻿  ClientA.cpp
+C:\Users\Admin\OneDrive - VNU-HCMUS\Applied Cryptography\PKI_With_X.509\ClientA\ClientA.cpp(31,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\OneDrive - VNU-HCMUS\Applied Cryptography\PKI_With_X.509\ClientA\ClientA.cpp(37,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ClientA.vcxproj -> C:\Users\Admin\OneDrive - VNU-HCMUS\Applied Cryptography\PKI_With_X.509\x64\Debug\ClientA.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
